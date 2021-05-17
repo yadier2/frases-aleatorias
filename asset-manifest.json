@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/frases-aleatorias/static/css/main.d52d529e.chunk.css",
+    "main.js": "/frases-aleatorias/static/js/main.34f6a742.chunk.js",
+    "main.js.map": "/frases-aleatorias/static/js/main.34f6a742.chunk.js.map",
+    "runtime-main.js": "/frases-aleatorias/static/js/runtime-main.f60530b2.js",
+    "runtime-main.js.map": "/frases-aleatorias/static/js/runtime-main.f60530b2.js.map",
+    "static/js/2.37c75f11.chunk.js": "/frases-aleatorias/static/js/2.37c75f11.chunk.js",
+    "static/js/2.37c75f11.chunk.js.map": "/frases-aleatorias/static/js/2.37c75f11.chunk.js.map",
+    "index.html": "/frases-aleatorias/index.html",
+    "static/css/main.d52d529e.chunk.css.map": "/frases-aleatorias/static/css/main.d52d529e.chunk.css.map",
+    "static/js/2.37c75f11.chunk.js.LICENSE.txt": "/frases-aleatorias/static/js/2.37c75f11.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f60530b2.js",
+    "static/js/2.37c75f11.chunk.js",
+    "static/css/main.d52d529e.chunk.css",
+    "static/js/main.34f6a742.chunk.js"
+  ]
+}
