@@ -3,14 +3,14 @@
 # 💎 App de frases aleatorias
 
 Una frase adecuada puede cambiar tu vida.\
-Obtene una infinidad de frases aleatorias que te servirán toda tu vida.
+Obten una infinidad de frases aleatorias que te servirán toda tu vida.
 
 Puedes verlo aquí: [https://yadier2.github.io/frases-aleatorias/](https://yadier2.github.io/frases-aleatorias/).
 ## Requerimientos
-Debes tener instalo Node.js
+Debes tener instalado Node.js
 
 ## 🔥 Instalación
-Tienes que instalar las dependencias (npm install)<br/>
+Tienes que instalar las dependencias (npm install)\
 Ejecutar el proyecto (npm run start)
 
 ## 🔍 Vistas 
